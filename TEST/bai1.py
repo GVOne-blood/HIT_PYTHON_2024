@@ -8,3 +8,4 @@ for i in range(len(t)):
 for i in dem:
     if dem[i] % 5 == 0 and dem[i] % 10 != 0:
         print(i)
+##
